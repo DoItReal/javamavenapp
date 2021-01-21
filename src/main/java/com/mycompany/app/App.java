@@ -4,6 +4,7 @@
 
 
 
+
 package com.mycompany.app;
 
 /**
@@ -12,8 +13,7 @@ package com.mycompany.app;
 public class App
 {
 
-    private final String message = "ello World!";
-
+    private final String message = "Hello World!"; 
     public App() {}
 
     public static void main(String[] args) {
